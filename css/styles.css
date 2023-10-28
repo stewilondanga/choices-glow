@@ -313,11 +313,11 @@ body {
 }
 
 /* Dark theme */
-/*@media (prefers-color-scheme: dark) {
-	:root {
-		--bg: hsl(var(--hue),10%,30%);
-		--fg: hsl(var(--hue),10%,90%);
-	}
+@media (prefers-color-scheme: dark) {
+  :root {
+    --bg: hsl(var(--hue), 10%, 30%);
+    --fg: hsl(var(--hue), 10%, 90%);
+  }
 }
 
 /* Beyond mobile */
