@@ -232,14 +232,15 @@ body {
   height: 100%;
 }
 
-/*.icon-btn__back {
-	background: linear-gradient(hsl(var(--hue),10%,50%),hsl(208,10%,50%));
-	box-shadow: 0.5em -0.5em 0.75em hsla(var(--hue),10%,10%,0.15);
-	display: block;
-	transform: rotate(15deg);
-	transform-origin: 100% 100%;
+.icon-btn__back {
+  background: linear-gradient(hsl(var(--hue), 10%, 50%), hsl(208, 10%, 50%));
+  box-shadow: 0.5em -0.5em 0.75em hsla(var(--hue), 10%, 10%, 0.15);
+  display: block;
+  transform: rotate(15deg);
+  transform-origin: 100% 100%;
 }
-.icon-btn__front {
+
+/*.icon-btn__front {
 	background-color: hsla(0,0%,100%,0.3);
 	box-shadow: 0 0 0 0.125em hsla(0,0%,100%,0.3) inset;
 	backdrop-filter: blur(0.75em);
