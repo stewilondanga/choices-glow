@@ -195,14 +195,15 @@ body {
     color var(--trans-dur);
 }
 
-/*.icon-btns {
-	display: grid;
-	grid-gap: 3em;
-	grid-template-columns: repeat(2,1fr);
-	margin: auto;
-	padding: 3em 0;
+.icon-btns {
+  display: grid;
+  grid-gap: 3em;
+  grid-template-columns: repeat(2, 1fr);
+  margin: auto;
+  padding: 3em 0;
 }
-.icon-btn {
+
+/*.icon-btn {
 	background-color: transparent;
 	outline: transparent;
 	position: relative;
