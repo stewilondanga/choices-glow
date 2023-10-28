@@ -295,11 +295,12 @@ body {
   transform: rotate(22.5deg);
 }
 
-/*.icon-btn:focus-visible .icon-btn__front,
+.icon-btn:focus-visible .icon-btn__front,
 .icon-btn:hover .icon-btn__front {
-	transform: translateZ(3em) rotateX(20deg) rotateY(20deg);
+  transform: translateZ(3em) rotateX(20deg) rotateY(20deg);
 }
-.icon-btn:focus-visible .icon-btn__label,
+
+/*.icon-btn:focus-visible .icon-btn__label,
 .icon-btn:hover .icon-btn__label {
 	opacity: 1;
 	transform: translateY(20%);
