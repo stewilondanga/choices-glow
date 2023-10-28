@@ -265,10 +265,11 @@ body {
   background: linear-gradient(hsl(283, 90%, 50%), hsl(268, 90%, 50%));
 }
 
-/*.icon-btn--red .icon-btn__back {
-	background: linear-gradient(hsl(3,90%,50%),hsl(348,90%,50%));
+.icon-btn--red .icon-btn__back {
+  background: linear-gradient(hsl(3, 90%, 50%), hsl(348, 90%, 50%));
 }
-.icon-btn--orange .icon-btn__back {
+
+/*.icon-btn--orange .icon-btn__back {
 	background: linear-gradient(hsl(43,90%,50%),hsl(28,90%,50%));
 }
 .icon-btn__icon {
