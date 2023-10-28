@@ -180,12 +180,13 @@ a {
   font-size: calc(16px + (24 - 16) * (100vw - 320px) / (2560 - 320));
 }
 
-/*body,
+body,
 button {
-	color: var(--fg);
-	font: 1em/1.5 Nunito, sans-serif;
+  color: var(--fg);
+  font: 1em/1.5 Nunito, sans-serif;
 }
-body {
+
+/*body {
 	background-color: var(--bg);
 	display: flex;
 	height: 100vh;
