@@ -165,14 +165,14 @@ a {
   line-height: 100%;
 }
 
-/*
 * {
-	border: 0;
-	box-sizing: border-box;
-	margin: 0;
-	padding: 0;
+  border: 0;
+  box-sizing: border-box;
+  margin: 0;
+  padding: 0;
 }
-:root {
+
+/*:root {
 	--hue: 223;
 	--bg: hsl(var(--hue),10%,90%);
 	--fg: hsl(var(--hue),10%,10%);
