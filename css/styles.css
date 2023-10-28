@@ -1,4 +1,4 @@
-@import url(https://fonts.googleapis.com/css?family=Roboto+Condensed);
+/*@import url(https://fonts.googleapis.com/css?family=Roboto+Condensed);
 
 .share__icon {
   width: 32px;
@@ -293,7 +293,7 @@ body {
 }
 
 /* Dark theme */
-@media (prefers-color-scheme: dark) {
+/*@media (prefers-color-scheme: dark) {
 	:root {
 		--bg: hsl(var(--hue),10%,30%);
 		--fg: hsl(var(--hue),10%,90%);
@@ -301,7 +301,7 @@ body {
 }
 
 /* Beyond mobile */
-@media (min-width: 768px) {
+/*@media (min-width: 768px) {
 	.icon-btns {
 		grid-template-columns: repeat(3,1fr);
 	}
