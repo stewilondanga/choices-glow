@@ -306,10 +306,10 @@ body {
   transform: translateY(20%);
 }
 
-/*.sprites {
-	display: block;
-	position: fixed;
-	transform: translateY(-100%);
+.sprites {
+  display: block;
+  position: fixed;
+  transform: translateY(-100%);
 }
 
 /* Dark theme */
