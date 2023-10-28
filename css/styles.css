@@ -273,12 +273,13 @@ body {
   background: linear-gradient(hsl(43, 90%, 50%), hsl(28, 90%, 50%));
 }
 
-/*.icon-btn__icon {
-	margin: auto;
-	width: 1.5em;
-	height: 1.5em;
+.icon-btn__icon {
+  margin: auto;
+  width: 1.5em;
+  height: 1.5em;
 }
-.icon-btn__label {
+
+/*.icon-btn__label {
 	font-size: 0.75em;
 	line-height: 2;
 	opacity: 0;
