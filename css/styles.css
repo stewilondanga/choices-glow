@@ -321,8 +321,8 @@ body {
 }
 
 /* Beyond mobile */
-/*@media (min-width: 768px) {
-	.icon-btns {
-		grid-template-columns: repeat(3,1fr);
-	}
+@media (min-width: 768px) {
+  .icon-btns {
+    grid-template-columns: repeat(3, 1fr);
+  }
 }
