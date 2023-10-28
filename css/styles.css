@@ -214,14 +214,15 @@ body {
   -webkit-tap-highlight-color: transparent;
 }
 
-/*.icon-btn__back,
+.icon-btn__back,
 .icon-btn__front,
 .icon-btn__label {
-	transition:
-		opacity var(--trans-dur) cubic-bezier(0.83,0,0.17,1),
-		transform var(--trans-dur) cubic-bezier(0.83,0,0.17,1);
+  transition:
+    opacity var(--trans-dur) cubic-bezier(0.83, 0, 0.17, 1),
+    transform var(--trans-dur) cubic-bezier(0.83, 0, 0.17, 1);
 }
-.icon-btn__back,
+
+/*.icon-btn__back,
 .icon-btn__front {
 	border-radius: 1.25em;
 	position: absolute;
