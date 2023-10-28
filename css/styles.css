@@ -253,10 +253,11 @@ body {
   background: linear-gradient(hsl(var(--hue), 90%, 50%), hsl(208, 90%, 50%));
 }
 
-/*.icon-btn--green .icon-btn__back {
-	background: linear-gradient(hsl(123,90%,40%),hsl(108,90%,40%));
+.icon-btn--green .icon-btn__back {
+  background: linear-gradient(hsl(123, 90%, 40%), hsl(108, 90%, 40%));
 }
-.icon-btn--indigo .icon-btn__back {
+
+/*.icon-btn--indigo .icon-btn__back {
 	background: linear-gradient(hsl(253,90%,50%),hsl(238,90%,50%));
 }
 .icon-btn--purple .icon-btn__back {
