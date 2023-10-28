@@ -203,17 +203,18 @@ body {
   padding: 3em 0;
 }
 
-/*.icon-btn {
-	background-color: transparent;
-	outline: transparent;
-	position: relative;
-	width: 4.5em;
-	height: 4.5em;
-	perspective: 24em;
-	transform-style: preserve-3d;
-	-webkit-tap-highlight-color: transparent;
+.icon-btn {
+  background-color: transparent;
+  outline: transparent;
+  position: relative;
+  width: 4.5em;
+  height: 4.5em;
+  perspective: 24em;
+  transform-style: preserve-3d;
+  -webkit-tap-highlight-color: transparent;
 }
-.icon-btn__back,
+
+/*.icon-btn__back,
 .icon-btn__front,
 .icon-btn__label {
 	transition:
