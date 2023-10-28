@@ -186,15 +186,16 @@ button {
   font: 1em/1.5 Nunito, sans-serif;
 }
 
-/*body {
-	background-color: var(--bg);
-	display: flex;
-	height: 100vh;
-	transition:
-		background-color var(--trans-dur),
-		color var(--trans-dur);
+body {
+  background-color: var(--bg);
+  display: flex;
+  height: 100vh;
+  transition:
+    background-color var(--trans-dur),
+    color var(--trans-dur);
 }
-.icon-btns {
+
+/*.icon-btns {
 	display: grid;
 	grid-gap: 3em;
 	grid-template-columns: repeat(2,1fr);
