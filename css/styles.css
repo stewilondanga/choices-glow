@@ -300,12 +300,13 @@ body {
   transform: translateZ(3em) rotateX(20deg) rotateY(20deg);
 }
 
-/*.icon-btn:focus-visible .icon-btn__label,
+.icon-btn:focus-visible .icon-btn__label,
 .icon-btn:hover .icon-btn__label {
-	opacity: 1;
-	transform: translateY(20%);
+  opacity: 1;
+  transform: translateY(20%);
 }
-.sprites {
+
+/*.sprites {
 	display: block;
 	position: fixed;
 	transform: translateY(-100%);
